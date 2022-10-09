@@ -11,9 +11,9 @@
 
 - 🔭 Working at <a href="https://www.bigohtech.com/" target="blank">BigOh Tech Pvt. Ltd.</a>
 
-- 🌱 Working on iOS Development(Swift)
+- 🛠 Working on iOS Development(Swift)
 
-- 🌱 Learning Swift && SwiftUI
+- 📝 Learning Swift && SwiftUI
 
 - 💬 Ask me about **Swift**
 
