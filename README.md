@@ -9,11 +9,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.bigohtech.com/" target="blank">BigOh Tech Pvt. Ltd.</a>
+- 🔭 Working at <a href="https://www.bigohtech.com/" target="blank">BigOh Tech Pvt. Ltd.</a>
 
-- 🌱 I’m currently Working on iOS Development(Swift)
+- 🌱 Working on iOS Development(Swift)
 
-- 🌱 I’m currently learning Swift && SwiftUI
+- 🌱 Learning Swift && SwiftUI
 
 - 💬 Ask me about **Swift**
 
